@@ -1,5 +1,5 @@
 <?php
-echo '<h1>1. PHP tiene tipos de datos dinamicos</h1>';
+echo '<h1>1. PHP tiene tipos de datos dinamicos Test</h1>';
 $var1 = 1;
 $var1 = 'Juanes';
 
